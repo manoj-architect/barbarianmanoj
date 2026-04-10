@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @barbarianmanoj
-- 👀 I’m interested in Javascript,Html/Css
-- 🌱 I’m currently learning Javascript
-- 📫 How to reach me Mobile:8525884188
+- 👋 Hi, I’m @Manoj Prabahar J
+- 👀 I’m interested in innovative solutions
+- 🌱 I’m currently learning Systems at scale and platform engineering
+- 📫 How to reach me Mail: manojprabaharj@gmail.com
 
 <!---
 barbarianmanoj/barbarianmanoj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
